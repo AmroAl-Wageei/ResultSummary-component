@@ -210,7 +210,7 @@ main {
   margin-left: 5px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 600px) {
   .container .left .title {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -219,6 +219,8 @@ main {
     margin-top: 20px;
     margin-bottom: 20px;
   }
+}
+@media (max-width: 518px) {
   .container {
     height: 900px;
   }
